@@ -1,0 +1,57 @@
+.intro{
+    text-align: center;
+    font-size: 30px;
+    /* font-weight: 100px; */
+}
+.begininig{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* padding: 50px; */
+    margin: 100px;
+}
+.desiredCurrency{
+    border: 20px;
+    border-radius: 50px;
+    border-color: black;
+    border-style: inherit;
+    text-align: center;
+    font-size: 20px;
+    background-color: aqua;
+    height: fit-content;
+        /* padding: 50px; */
+
+    /* width: fit-content; */
+}
+.radio-group{
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+    font-size: 40px;
+    /* align-items: center; */
+
+
+}
+#inputVal2{
+    height: 50px;
+    width: 300px;
+}
+.inputVal{
+    height: 30px;
+}
+.btn{
+    /* padding: 30px; */
+    margin: 50px;
+    min-height: 30px;
+    background-color: chartreuse;
+    border-radius: 20px;
+    /* height: 30px; */
+}
+::placeholder{
+    font-size: 20px;
+    text-align: center;
+}
+.value{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
